@@ -1,26 +1,13 @@
-Objects are lists of values similar to arrays, except values are identified by keys instead of integers.
-
-Here is an example:
-
-```js
-var foodPreferences = {
-  pizza: 'yum',
-  salad: 'gross'
-};
-```
-
 ## The challenge:
 
 Create a file named `objects.js`.
 
-In that file, define a variable named `pizza` like this:
+In that file, define a variable named `pizza`:
+
+Create an Object literal with the following key and values:
 
 ```js
-var pizza = {
-  toppings: ['cheese', 'sauce', 'pepperoni'],
-  crust: 'deep dish',
-  serves: 2
-};
+toppings - Array, crust - String, serves - Number;
 ```
 
 Use `console.log()` to print the `pizza` object to the terminal.
