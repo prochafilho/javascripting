@@ -6,6 +6,8 @@ In that file, define a variable named `pizza`:
 
 Create an Object literal with the following key and values:
 
+The pizza you are going to create has a cheese, sauce and pepperoni toppings; it has a deep dish crust; and it serves 2 people
+
 ```js
 toppings - Array, crust - String, serves - Number;
 ```
